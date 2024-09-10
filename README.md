@@ -44,3 +44,5 @@ This project focuses on detecting parking spaces using both traditional image pr
     <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=GoogleDrive&logoColor=white" />
 </div>
 
+## 📼 Demo
+[Watch the demo video on Google Drive](https://drive.google.com/drive/folders/1Vg_oa_r5s_gYFnLBLm-cYhLv_40ciIT6)

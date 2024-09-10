@@ -13,16 +13,33 @@ This project focuses on detecting parking spaces using both traditional image pr
 
 ## 💻 Technical Stack
 
-### Development Environment
+### Development Environment & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF9C00?style=flat&logo=YOLO&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-### Development Tools
+<div align="left">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+</div>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+### Programming Languages & Frameworks
 
-### Hardware
-- **GPU:** NVIDIA A100
+<div align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+</div>
+
+### Computer Vision & GPU
+
+<div align="left">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
+    <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=NVIDIA&logoColor=white" />
+</div>
+
+### Version Control & File Sharing
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=GoogleDrive&logoColor=white" />
+</div>
+
